@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>HOME</title>
     <link>https://sicista33.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on HOME</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <language>ko-KR</language>
+    <copyright>© 2024 sicista33</copyright>
+    <lastBuildDate>Thu, 10 Oct 2024 21:29:36 +0900</lastBuildDate>
     <atom:link href="https://sicista33.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init post</title>
+      <link>https://sicista33.github.io/post/init/</link>
+      <pubDate>Thu, 10 Oct 2024 21:29:36 +0900</pubDate>
+      <guid>https://sicista33.github.io/post/init/</guid>
+      <description>H1 This is init post.</description>
+    </item>
   </channel>
 </rss>
