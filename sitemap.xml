@@ -4,15 +4,25 @@
   <url>
     <loc>https://sicista33.github.io/</loc>
     <lastmod>2024-10-10T21:29:36+09:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://sicista33.github.io/post/init/</loc>
     <lastmod>2024-10-10T21:29:36+09:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://sicista33.github.io/post/</loc>
     <lastmod>2024-10-10T21:29:36+09:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://sicista33.github.io/categories/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://sicista33.github.io/tags/</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
