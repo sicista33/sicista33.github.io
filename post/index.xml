@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     <copyright>© 2024 sicista33</copyright>
-    <lastBuildDate>Thu, 10 Oct 2024 21:29:36 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 16:24:02 +0900</lastBuildDate>
     <atom:link href="https://sicista33.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu 24.04 에서 Hyprland 사용하기</title>
+      <link>https://sicista33.github.io/post/hyprland-on-ubuntu-24-04/</link>
+      <pubDate>Tue, 15 Oct 2024 16:24:02 +0900</pubDate>
+      <guid>https://sicista33.github.io/post/hyprland-on-ubuntu-24-04/</guid>
+      <description>Hyprland 우분투 24.04에 Hyprland를 설치하는 스크립트는 jaKooLit&amp;rsquo;s Ubuntu-Hyprland을 사용했다. 설치과정은 해당 깃 리포지토리에 자세히 설명되어있어 어렵지 않게 설치할 수 있다.&#xA;설치환경&#xA;OS: Ubuntu 24.04.1 LTS x86_64&#xA;Kernel: 6.8.0-45-generic&#xA;CPU: AMD Ryzen 7 8845HS&#xA;GPU: Radeon 780M&#xA;Troubleshooting 한글 입력 fcitx5 설치&#xA;$ sudo apt install fcitx5 fcitx5-hangul fcitx5-configtool실행&#xA;$ fcitx5-configtool 입력기탭 우측 &amp;lsquo;사용가능한 입력기&amp;rsquo;목록에서 한글을 좌측 &amp;lsquo;현재 입력기&amp;rsquo;목록으로 이동 전역 옵션탭에서 &amp;lsquo;트리거 입력기&amp;rsquo; 및 추가 옵션 설정 Hyprland config 수정</description>
+    </item>
     <item>
       <title>Init post</title>
       <link>https://sicista33.github.io/post/init/</link>
